@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/iconfont.css">
+
+    <style>
+        .keys{
+            width: 100%;
+            height: 45px;
+            position: fixed;
+            background-color: #d8505c;
+            bottom: 0;
+            left: 0;
+        }
+        .keys ul{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+        .keys ul li{
+            flex: 1;
+        }
+        .keys ul li a{
+            width: 100%;
+            height: 100%;
+            display: block;
+            line-height: 45px;
+            text-align: center;
+        }
+        .keys ul li a img{
+            width: 70%;
+            vertical-align: middle;
+        }
+
+        .loginbox{
+            width: 60%;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%);
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 30px;
+            text-align: center;
+            display: none;
+        }
+        .loginbox .username,.loginbox .password{
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            margin: 10px 0;
+        }
+        .loginbox label{
+            width: 20%;
+            flex: 1;
+            font-size: 12px;
+            color: white;
+        }
+        .loginbox input{
+            width: 80%;
+            flex: 2;
+        }
+        #loginbtn{
+            width: 40%;
+            height: 28px;
+            background-color: rgb(100, 80, 91);
+            border: 0;
+        }
+        .loginbox i{
+            display: block;
+            width: 10%;
+            height: 10%;
+            text-align: center;
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            font-style: inherit;
+        }
+    </style>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+    <div class="layout">
+        <!-- 搜索头部 -->
+        <header class="header">
+            <div class="header_box">
+                <a href="#" class="iconfont icon-jingdong"></a>
+                <form action="#">
+                    <span class="iconfont icon-sousuo"></span>
+                    <input type="search" placeholder="电脑" />
+                </form>
+                <a href="#" class="login">登录</a>
+            </div>
+        </header>
+        <!-- 轮播图 -->
+        <div class="banner" id="banner">
+            <img class="none" src="./img/l1.jpg" alt="">
+            <ul></ul>
+            <ol></ol>
+
+        </div>
+
+        <!-- 导航栏 -->
+        <nav class="nav" id="nav">
+            <ul class="cleanflex"></ul>
+        </nav>
+
+        <!-- 商品 -->
+        <main class="product">
+            <!-- 商品盒子 -->
+            <section class="product_box">
+                <div class="product_tit">
+                    <div class="t_left">
+                        <span class="iconfont icon-85"></span>
+                        <span class="t_name">掌上秒杀</span>
+                        <div class="t_time" id="time">
+                            <span>0</span>
+                            <span>0</span>
+                            <span>:</span>
+                            <span>0</span>
+                            <span>0</span>
+                            <span>:</span>
+                            <span>0</span>
+                            <span>0</span>
+                        </div>
+                    </div>
+                    <div class="t_right">
+                        <a href="#">更多></a>
+                    </div>
+                </div>
+                <script src="./js/time.js"></script>
+                <div class="product_con" id="secKill">
+                    <ul>
+                        <li>
+                            <a href="#">
+                                <img src="./img/detail01.jpg" alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./img/detail02.jpg" alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t1/7346/16/11376/196251/5c2b3bc9E2fd5e1a2/2b2a2cd48c3be6a5.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t1/18948/7/4708/42117/5c345e05Ea6c7954e/3c9d9745082ba1a9.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t19621/168/1967639133/93979/e162e0ae/5addbb07N706087b7.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t1/9612/8/12376/116922/5c35c36eEf9fc930a/7eeb7e6a7214c1ff.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t1/11661/31/5707/159943/5c36c70dE34e13d86/6333302ebafac1ee.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="https://img14.360buyimg.com/n1/s150x150_jfs/t1/20628/37/4743/187988/5c341f31E8cf59af6/b5b543f6d4c860c1.jpg.dpg"
+                                    alt="">
+                            </a>
+                            <p>￥10.00</p>
+                            <p>￥100.00</p>
+                        </li>
+                        <li>
+                            <a href="#">查看更多</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </section>
+
+            <section class="product_box">
+                <div class="product_k_tit" id="textBanner">
+                    <a href="#">
+                        <img src="./img/kuaibao.jpg.dpg" alt="">
+                    </a>
+                    <ul>
+                        <li>
+                            <a href="#">热门 华为员工：宁买iPhone也不用华为Mate20是实情</a>
+                        </li>
+                        <li>
+                            <a href="#">HOP 高速免费时间有调整！另增多条免费高速，已实施</a>
+                        </li>
+                    </ul>
+                    <a href="#">更多</a>
+                </div>
+                <div class="product_k_img">
+                    <a href="#">
+                        <img src="./img/kuaibaoimg00.jpg.dpg" alt="">
+                    </a>
+                    <a href="#">
+                        <img src="./img/kuaibaoimg01.jpg.dpg" alt="">
+                    </a>
+                    <a href="#">
+                        <img src="./img/kuaibaoimg02.jpg.dpg" alt="">
+                    </a>
+                </div>
+            </section>
+
+            <!-- 商品盒子 -->
+            <section class="product_box">
+                <div class="product_tit">
+                    <h3>京东超市</h3>
+                </div>
+                <div class="product_box_con cleanflex">
+                    <a href="#" class="f_left w_50 b_r b_t">
+                        <img class="w_100" src="./img/cp1.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_right w_50 b_t b_b">
+                        <img class="w_100" src="./img/cp2.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_right w_50">
+                        <img class="w_100" src="./img/cp3.jpg" alt="">
+                    </a>
+                </div>
+            </section>
+            <!-- 商品盒子 -->
+            <section class="product_box">
+                <div class="product_tit">
+                    <h3>京东超市</h3>
+                </div>
+                <div class="product_box_con cleanflex">
+                    <a href="#" class="f_right w_50 b_l b_t">
+                        <img class="w_100" src="./img/cp4.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_right w_50 b_t b_b">
+                        <img class="w_100" src="./img/cp5.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_left w_50">
+                        <img class="w_100" src="./img/cp6.jpg" alt="">
+                    </a>
+                </div>
+            </section>
+            <!-- 商品盒子 -->
+            <section class="product_box">
+                <div class="product_tit">
+                    <h3>京东超市</h3>
+                </div>
+                <div class="product_box_con cleanflex">
+                    <a href="#" class="f_left w_50 b_r b_t">
+                        <img class="w_100" src="./img/cp1.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_right w_50 b_t b_b">
+                        <img class="w_100" src="./img/cp2.jpg" alt="">
+                    </a>
+                    <a href="#" class="f_right w_50">
+                        <img class="w_100" src="./img/cp3.jpg" alt="">
+                    </a>
+                </div>
+            </section>
+        </main>
+        <div class="keys" id="key">
+            <ul></ul>
+        </div>
+        <div class="jiantou" id="totop">
+            <i class="iconfont icon-jiantou"></i>
+        </div>
+        <div class="loginbox">
+            <i>X</i>
+            <div class="username">
+                <label for="username">用户名：</label>
+                <input type="text" name="username" id="username">
+            </div>
+            <div class="password">
+                <label for="password">密 码：</label>
+                <input type="password" name="password" id="password">
+            </div>
+            <button id="loginbtn">登录</button>
+        </div>
+
+
+        <script src="./js/nav.js"></script>
+        <script src="./js/banner.js"></script>
+        <script src="./js/login.js"></script>
+    </div>
+
+</body>
+
+</html>

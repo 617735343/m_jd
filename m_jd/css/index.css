@@ -1,0 +1,371 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #666;
+}
+ol,ul{
+    list-style: none;
+}
+input{
+    outline: none;
+    border: none;
+}
+.cleanflex::after{
+    display: block;
+    content: '';
+    clear: both;
+}
+.layout{
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgb(248, 247, 247);
+}
+.header{
+    width: 100%;
+    height: 40px;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.header_box{
+    max-width: 640px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.icon-jingdong{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 3rem;
+    display: block;
+    width: 70px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
+.header_box form{
+    width: 100%;
+    height: 100%;
+    padding: 0 60px 0 70px;
+    position: relative;
+    top: 5px;
+}
+.header_box form input{
+    width: 100%;
+    height: 30px;
+    padding-left: 30px;
+    border-radius: 15px;
+}
+.header_box form span{
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+    left: 75px;
+    top: 5px;
+    font-size: 1.3rem;
+    color: #ccc;
+}
+.login{
+    position: absolute;
+    display: block;
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    right: 0;
+    top: 0;
+    color: white;
+    font-size: 0.8rem;
+}
+
+.banner{
+    width: 100%;
+    /* height: auto; */
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+.banner ul{
+    width: 1000%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.banner ul li{
+    width: 10%;
+    float: left;
+}
+.banner img,.banner a{
+    width: 100%;
+    display: block;
+}
+.banner .none{
+    opacity: 0;
+}
+.banner ol{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.banner ol li{
+    width: 8px;
+    height: 8px;
+    border: 1px solid rgb(184, 105, 16);
+    background-color: transparent;
+    margin: 0 3px;
+    border-radius: 50%;
+}
+.banner ol li.hover{
+    background-color: rgb(184, 105, 16);
+}
+
+
+/* 导航栏 */
+.nav{
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid #e0e0e0;
+}
+.nav ul{
+    width: 100%;
+}
+.nav ul li{
+    float: left;
+    width: 25%;
+    margin: 5px 0;
+}
+.nav ul li a{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.nav ul li a img{
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    display: block;
+}
+.nav ul li a span{
+    font-size: 0.8rem;
+}
+
+/* 商品 */
+.product{
+    padding: 0 5px;
+    margin-bottom: 45px;
+}
+/* 商品盒子 */
+.product_box{
+    width: 100%;
+    background-color: white;
+    margin-top: 10px;
+    box-shadow: 0 0 1px #e0e0e0;
+    overflow: hidden;
+}
+.product_tit{
+    height: 32px;
+    line-height: 32px;
+}
+.product_tit .t_left{
+    float: left;
+    margin-left: 10px;
+}
+.product_tit .t_right{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.icon-85{
+    font-size: 1.8rem;
+    color: #666;
+    display: block;
+    float: left;
+    margin-top: 3px;
+}
+.t_name{
+    font-size: 15px;
+    color: #d8505c;
+    float: left;
+    margin-right: 5px;
+}
+.t_time{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.t_time span{
+    margin: 0 1px;
+    width: 15px;
+    height: 15px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    line-height: 15px;
+    font-size: 0.8rem;
+}
+.t_time span:nth-child(3n){
+    background-color: transparent;
+    color: #666;
+    margin: 0;
+    width: 10px;
+}
+
+.product_con > ul{
+    width: 300%;
+    font-size: 12px;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.product_con > ul > li{
+    width: 12%;
+    text-align: center;
+    /* margin: 0 1px; */
+}
+.product_con > ul > li > a {
+    width: 100%;
+    display: block;
+    border-left: 1px solid #e0e0e0;
+}
+.product_con > ul > li:last-child > a {
+    border-left: 0px;
+}
+.product_con > ul > li:first-child > a {
+    border-left: 0px;
+}
+.product_con > ul > li:last-child{
+    width: 4%;
+    padding: 0 10px;
+    text-align: left;
+    transform: translate(-30%,10%);
+}
+.product_con > ul > li > a > img{
+    width: 65%;
+}
+.product_con > ul > li > p:first-child{
+    color: #d8505c;
+    margin-top: 5px;
+}
+.product_con > ul > li > p:last-child{
+    text-decoration: line-through;
+    color: #666;
+    margin-top: 5px;
+}
+
+.product_k_tit{
+    height: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    position: relative;
+}
+.product_k_tit img{
+    width: 3.75rem;
+    height: 1rem;
+    margin: 0 5px;
+    position: absolute;
+    left: 0.4rem;
+    top: 0.5rem;
+}
+
+.product_k_tit ul li a{
+    font-size: 0.8rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+    padding: 0 3rem 0 4.7rem;
+}
+.product_k_tit>a:last-child{
+    position: absolute;
+    right: 0.8rem;
+    top: 0;
+    font-size: 0.8rem;
+}
+.product_k_img{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product_k_img img{
+    width: 100%;
+}
+
+.product_box > .product_tit > h3{
+    font-size: 15px;
+    position: relative;
+    padding: 0 20px;
+    color: #666;
+}
+.product_box >.product_tit > h3::before{
+    display: block;
+    width: 3px;
+    height: 12px;
+    position: absolute;
+    content: '';
+    background-color: #d8505c;
+    top: 10px;
+    left: 12px;
+}
+
+.f_left{
+    float: left;
+}
+.f_right{
+    float: right;
+}
+.w_50{
+    display: block;
+    width: 50%;
+}
+.w_100{
+    width: 100%;
+    display: block;
+}
+.b_l{
+    border-left: 1px solid #e0e0e0;
+}
+.b_t{
+    border-top: 1px solid #e0e0e0;
+}
+.b_r{
+    border-right: 1px solid #e0e0e0;
+}
+.b_b{
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.jiantou{
+    position: fixed;
+    bottom: 60px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #d8505c;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.048);
+    text-align: center;
+    line-height: 40px;
+    display: none;
+}
+.jiantou .icon-jiantou{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #d8505c;
+}
+
+

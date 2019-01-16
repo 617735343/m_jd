@@ -1,0 +1,28 @@
+[
+    {
+        "id":"home",
+        "path":"./img/lan01.png",
+        "href":"#"
+    },
+    {
+        "id":"classify",
+        "path":"./img/lan02.png",
+        "href":"#"
+    },
+    {
+        "id":"one",
+        "path":"./img/lan03.png",
+        "href":"#"
+    },
+    {
+        "id":"shoppingcar",
+        "path":"./img/lan04.png",
+        "href":"#"
+    },
+    {
+        "id":"login",
+        "path":"./img/lan05.png",
+        "href":"#"
+    }
+
+]
