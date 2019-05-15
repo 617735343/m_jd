@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/iconfont.css">
+    <link rel="stylesheet" href="./css/seckill.css">
+    <link rel="stylesheet" href="./css/keys.css">
+</head>
+
+<body>
+    <div class="layout">
+        <header class="header">
+            <div class="header_box">
+                <a href="./index.html" class="iconfont icon-jiantou1"></a>
+                <span>GH秒杀</span>
+                <a href="#" class="iconfont icon-gengduo"></a>
+            </div>
+        </header>
+        <div class="seckill_tab" id="seckill_tab">
+
+        </div>
+        <div class="seckill_data" id="seckill_data">
+            <a href="#">
+                <div class="seckill_d_box">
+                    <img src="" alt="">
+                    <div class="seckill_d_r">
+                        <p></p>
+                        <div class="seckill_d_r_c">
+                            <p>￥179.00</p>
+                            <span>立即抢购</span>
+                        </div>
+                        <div class="seckill_d_r_b">
+                            <p>￥228.00</p>
+                            <span>已售 33%</span>
+                            <div class="jingdulan">
+                                <i></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="keys" id="key">
+            <ul></ul>
+        </div>
+    </div>
+
+    <script type="text/html" id="seckillTabUl">
+        <ul>
+            {{each obj}}
+                <li>
+                    <p>{{$value.time}}</p>
+                    <p>已开抢</p>
+                </li>
+            {{/each}}
+        </ul>
+    </script>
+
+    <script src="https://cdn.bootcss.com/jquery/1.6.4/jquery.js"></script>
+    <script src="./js/template-web.js"></script>
+    <script src="./js/seckill.js"></script>
+    <script src="./js/keys.js"></script>
+</body>
+
+</html>

@@ -2,17 +2,17 @@
     {
         "id":"home",
         "path":"./img/lan01.png",
-        "href":"#"
+        "href":"./index.html"
     },
     {
         "id":"classify",
         "path":"./img/lan02.png",
-        "href":"#"
+        "href":"./list.html"
     },
     {
         "id":"one",
         "path":"./img/lan03.png",
-        "href":"#"
+        "href":"./seckill.html"
     },
     {
         "id":"shoppingcar",

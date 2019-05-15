@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_1004607_j2lqstjqj1.css">
+    <link rel="stylesheet" href="./css/list.css">
+    <link rel="stylesheet" href="./css/keys.css">
+</head>
+
+<body>
+    <div class="layout">
+        <header class="header">
+            <a href="./index.html" class="iconfont icon-jiantou1"></a>
+            <form action="#">
+                <span class="iconfont icon-sousuo"></span>
+                <input type="search" placeholder="电脑" />
+            </form>
+            <a href="#" class="iconfont icon-gengduo"></a>
+        </header>
+        <main class="main">
+            <section class="main_box">
+                <div class="nav" id="nav">
+                    <ul>
+
+                    </ul>
+                </div>
+                <div class="product" id="product">
+
+
+                </div>
+            </section>
+        </main>
+        <div class="keys" id="key">
+            <ul></ul>
+        </div>
+    </div>
+
+
+    <!-- 写模板 -->
+    <script type="text/html" id="lis">
+        {{each obj}} 
+            <li><a href="javascript:;">{{$value.name}}</a></li>
+        {{/each}}
+    </script>
+    <script type="text/html" id="divs">
+        {{if obj}}
+            {{if !obj.data[0].data}}
+            <a href="#">
+                <img src={{obj.data[0].path}}
+                    alt="">
+                </a>
+                <div class="yeargoods">
+                        <h5>{{obj.data[1].name}}</h5>
+                <ul>
+                {{else}}
+                <div class="yeargoods">
+                        <h5>{{obj.data[0].name}}</h5>
+                <ul>
+            {{/if}}
+            {{if !obj.data[0].data}}
+                {{each obj.data[1].data}}
+                        <li>
+                            <a href="#">
+                                <img src={{$value.path}} alt="">
+                                <p>{{$value.name}}</p>
+                            </a>
+                        </li>        
+    
+                {{/each}}
+                {{else}}
+                {{each obj.data[0].data}}
+                        <li>
+                            <a href="#">
+                                <img src={{$value.path}} alt="">
+                                <p>{{$value.name}}</p>
+                            </a>
+                        </li>        
+                {{/each}}
+            {{/if}}
+                </ul>
+            </div>
+
+            <!-- 热门分类 -->
+            {{if !obj.data[0].data}}
+                {{if obj.data[2]}}
+                <div class="yeargoods">
+                    <h5>{{obj.data[2].name}}</h5>
+                <ul>
+                    {{each obj.data[2].data}}
+                        <li>
+                            <a href="#">
+                                <img src={{$value.path}} alt="">
+                                <p>{{$value.name}}</p>
+                            </a>
+                        </li>        
+    
+                    {{/each}}
+                    {{/if}}
+                    {{else if obj.data[0].data}}
+                 <div class="yeargoods">
+                    <h5>{{obj.data[1].name}}</h5>
+                <ul>
+                {{each obj.data[1].data}}
+                    <li>
+                        <a href="#">
+                            <img src={{$value.path}} alt="">
+                            <p>{{$value.name}}</p>
+                        </a>
+                    </li>        
+            {{/each}}
+        </ul>
+        
+    </div>
+    {{/if}}
+
+    {{if !obj.data[0].data}}
+        {{if obj.data[3]}}
+            <div class="yeargoods">
+                    <h5>{{obj.data[3].name}}</h5>
+                <ul>
+                    {{each obj.data[3].data}}
+                        <li>
+                            <a href="#">
+                                <img src={{$value.path}} alt="">
+                                <p>{{$value.name}}</p>
+                            </a>
+                        </li>        
+    
+                    {{/each}}
+            {{/if}}
+            {{else if obj.data[0].data}}
+            <div class="yeargoods">
+                    <h5>{{obj.data[2].name}}</h5>
+                <ul>
+                {{each obj.data[2].data}}
+                    <li>
+                        <a href="#">
+                            <img src={{$value.path}} alt="">
+                            <p>{{$value.name}}</p>
+                        </a>
+                    </li>       
+            {{/each}}
+
+           
+        </ul>
+        
+        
+    </div>
+    {{/if}}
+    
+
+    {{/if}}
+    </script>
+    <script src="https://cdn.bootcss.com/jquery/1.6.4/jquery.js"></script>
+    <script src="./js/template-web.js"></script>
+    <script src="./js/keys.js"></script>
+    <script src="./js/list.js"></script>
+</body>
+
+</html>

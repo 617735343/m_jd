@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #666;
+}
+ul,ol{
+    list-style: none;
+}
+.clearflex::after{
+    display: block;
+    content:'';
+    clear: both;
+}
+.layout{
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+}
+.header{
+    width: 100%;
+    height: 44px;
+    position: relative;
+    border-bottom: 1px solid rgb(201, 201, 201);
+    text-align: center;
+    line-height: 44px;
+}
+.header .icon-jiantou1{
+    font-size: 0.8rem;
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    z-index: 999;
+}
+.header span{
+    font-size: 1rem;
+}
+.header .icon-gengduo{
+    font-size: 1.5rem;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.seckill_tab{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    max-width: 640px;
+    z-index: 101;
+    margin: 0 auto;
+}
+.seckill_tab ul{
+    background-color: #333;
+    white-space: nowrap;
+    font-family: arial;
+    overflow-x: scroll;
+}
+.seckill_tab ul li{
+    width: 20%;
+    height: 50px;
+    vertical-align: top;
+    display: inline-block;
+    padding: 10px 0;
+    overflow: hidden;
+    text-align: center;
+    color:#999;
+    font-size: 14px;
+    line-height: 15px;
+}
+.seckill_tab ul li p{
+    height: 15px;
+}
+.seckill_tab ul li.hover{
+    background-color: #d8505c;
+    color: white;
+}
+

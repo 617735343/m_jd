@@ -1,0 +1,1294 @@
+[
+    {
+        "id": 0,
+        "name": "热门推荐",
+        "data": [
+            {
+                "name": "广告",
+                "path": "https://img20.360buyimg.com/mcoss/jfs/t1/17970/5/1976/51492/5c189253E07d143ed/5df8a82661807e7f.png"
+            },
+            {
+                "name": "京东年货",
+                "data": [
+                    {
+                        "name": "干果",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/24157/37/4730/15002/5c34ad2aE17e7c919/7478e75c1a74534e.png"
+                    },
+                    {
+                        "name": "酒类",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/8442/13/12309/14678/5c34ad31Ef45ff26d/78f989af20b6e59e.png"
+                    },
+                    {
+                        "name": "新春女装",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/11747/40/5509/15838/5c34ad37E413959fd/dd755b4979e0e306.png"
+                    },
+                    {
+                        "name": "潮流男装",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/23971/31/4698/13366/5c34ad3cEd9af3571/f15e55be5965980a.png"
+                    },
+                    {
+                        "name": "童装新品",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/24302/27/4721/5894/5c34ae05Ee802c258/414c4c3e6044b6a7.png"
+                    },
+                    {
+                        "name": "电子数码",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/11960/19/5588/14932/5c34ad4bE2f10e4e2/720b8219ff43cc0c.png"
+                    }
+                ]
+            },
+            {
+                "name":"热门分类",
+                "data":[
+                    {
+                        "name":"手机",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png"
+                    },
+                    {
+                        "name":"华为",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t1/1446/14/631/8500/5b9237e5E0d1f9e16/b1a627b92323b5ed.png"
+                    },
+                    {
+                        "name":"充电宝",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/28793/2/4042/4059/5c2efe4dEee11fd60/12d857b6b872d978.png"
+                    },
+                    {
+                        "name":"电热毯",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t29599/234/579251680/28438/c901f95e/5bf7b1c2Ne8b1eb0f.png"
+                    },
+                    {
+                        "name":"电暖气",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t1/15512/32/4057/15748/5c2efe57Ec65b520f/c61a5133cc828222.png"
+                    },
+                    {
+                        "name":"男士内裤",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/18035/6/2437/25245/5c1cab69E1ae93a61/9e1a8a23f26730a8.jpg"
+                    },
+                    {
+                        "name":"路由器",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t27400/283/1600620667/15106/a935e7bd/5be6f2e1Nfa8d9d6e.png"
+                    },
+                    {
+                        "name":"U盘",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t1/19187/29/4089/14607/5c2efe5dE4506ec51/2287f7a8f66b61e0.png"
+                    },
+                    {
+                        "name":"微波炉",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/22148/16/4231/17896/5c2efe68E66c2bc8c/dff0c23c630bd84e.png"
+                    },
+                    {
+                        "name":"避孕套",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t27343/6/2085247837/31220/3cc6d03a/5bf7b1c9N816d1180.png"
+                    },
+                    {
+                        "name":"吹风机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t1/25144/37/2370/7617/5c1cae45Ea0ec5a85/f7ba433b5d1e072f.png"
+                    },
+                    {
+                        "name":"vivo",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t1/22021/36/2449/23465/5c1cae3eE9d3c994e/2dcd61d27903c679.png"
+                    },
+                    {
+                        "name":"热水袋",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/25175/27/4123/25765/5c2efe6fE46330b67/a42d78b8456b9be8.png"
+                    },
+                    {
+                        "name":"羽绒服",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t1/19249/4/2438/21895/5c1cae4bE2daf2ac6/8878262170958f72.png"
+                    },
+                    {
+                        "name":"热水壶",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t1/28075/17/4266/20834/5c2efe75Ecee11c8f/db52e0e7e927f77e.png"
+                    }
+                ]
+            },
+            {
+                "name":"家电热搜",
+                "data":[
+                    {
+                        "name":"冰箱",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t21115/83/225125274/13856/5473fb3f/5b0567c1N59d53b27.png"
+                    },
+                    {
+                        "name":"洗衣机",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t21664/15/237213959/24996/a3c6c7d6/5b0567c7N9cc1c355.png"
+                    },
+                    {
+                        "name":"电视",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t18106/218/2672347202/29951/3618e960/5b0567cdN275fbcdd.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "手机数码",
+        "data": [
+            {
+                "name": "热门品牌",
+                "data": [
+                    {
+                        "name": "小米",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png"
+                    },
+                    {
+                        "name": "华为",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg"
+                    },
+                    {
+                        "name": "荣耀",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t12178/348/911080073/4732/db0ad9c7/5a1692e2N6df7c609.jpg"
+                    },
+                    {
+                        "name": "iPhone",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t13759/194/897734755/2493/1305d4c4/5a1692ebN8ae73077.jpg"
+                    },
+                    {
+                        "name": "vivo",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png"
+                    },
+                    {
+                        "name": "OPPO",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png"
+                    },
+                    {
+                        "name":"魅族",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12820/326/909017718/7138/68cde747/5a169243N40eca33c.jpg"
+                    },
+                    {
+                        "name":"三星",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11509/131/2348573811/3425/4f20fe6/5a16925aN8a6dfd03.png"
+                    },{
+                        "name":"一加",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11209/71/2351231464/4158/fc0c415c/5a16923fNfc14307e.jpg"
+                    },
+                    {
+                        "name":"360手机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13096/309/908035611/5138/5558f001/5a16924fNeac7677e.jpg"
+                    },
+                    {
+                        "name":"锤子手机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t19387/332/664528115/8176/5eabe8cb/5a9fa5e0N6754e52a.jpg"
+                    },
+                    {
+                        "name":"努比亚",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t15085/289/2395028996/2546/1e7e1f7b/5a9fa5e7Nc5cc0f6b.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"手机通讯",
+                "data":[
+                    {
+                        "name":"老人机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t11461/339/2354953633/8254/8c8c50d3/5a169217N5d1b842e.jpg"
+                    },
+                    {
+                        "name":"手机",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t11503/241/2246064496/4783/cea2850e/5a169216N0701c7f1.jpg"
+                    },
+                    {
+                        "name":"全面屏手机",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t18955/187/1309277884/11517/fe100782/5ac48d27N3f5bb821.jpg"
+                    },
+                    {
+                        "name":"游戏手机",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t11470/45/2362968077/2689/fb36d9a0/5a169238Nc8f0882b.jpg"
+                    },
+                    {
+                        "name":"拍照手机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12022/66/917351804/2257/7ddc58e5/5a169232Ndf76f53c.jpg"
+                    },
+                    {
+                        "name":"对讲机",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t13255/192/958298391/1687/5c7e3c53/5a169204Nd4aa27bb.jpg"
+                    },
+                    {
+                        "name":"GH回收",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t13246/188/925975876/8794/686dbb9c/5a1691e0N62f626e3.jpg"
+                    },
+                    {
+                        "name":"女性手机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t15790/6/2311892256/2742/5ed77924/5a9fa728Nbff29ad2.jpg"
+                    },
+                    {
+                        "name":"GH维修",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t11644/236/2358207967/6141/e2d71825/5a169205N84a49a6a.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"运营商",
+                "data":[
+                    {
+                        "name":"合约机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13309/121/902275259/3700/e9f22529/5a168e83Nb1a35aac.png"
+                    },
+                    {
+                        "name":"选卡号",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t11515/106/2342900928/7913/5a606e3f/5a168e7eNdd5d0121.png"
+                    },
+                    {
+                        "name":"办套餐",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t14146/201/916948302/5272/8ae80f8e/5a168e78N78b24a8e.jpg"
+                    },
+                    {
+                        "name":"GH网厅",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t15865/151/2284016087/10155/c4aaceec/5a9faa1fN03a4c9e1.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "家用电器",
+        "data": [
+            {
+                "name": "厨房小电",
+                "data":[
+                    {
+                        "name":"电水壶/热水瓶",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12559/262/969294499/3436/8c0ce9c9/5a17f1d2N8078d5e6.jpg"
+                    },
+                    {
+                        "name":"电压力锅",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t13069/193/944900508/2525/d7c9efc/5a17f21dN905aaf4c.jpg"
+                    },
+                    {
+                        "name":"电饭煲",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t14185/134/950962305/3800/eb1bafb8/5a17f224Nea1d3f59.jpg"
+                    },
+                    {
+                        "name":"电磁炉",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11209/197/2422417970/2811/d167e855/5a17f1edN56abbe6e.jpg"
+                    },
+                    {
+                        "name":"微波炉",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13267/86/981023661/1871/6fae5f11/5a17f203N50016f64.jpg"
+                    },
+                    {
+                        "name":"电饼铛",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t11503/25/2307123595/2987/a79ac767/5a17f1e3Nf7957b34.jpg"
+                    },
+                    {
+                        "name":"豆浆机",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t14065/132/988058896/1688/99cd0a3d/5a17f229Nc4c681fb.jpg"
+                    },
+                    {
+                        "name":"多用途锅",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13192/9/990491166/2453/36169f1b/5a17f1ccN019c7fda.jpg"
+                    },
+                    {
+                        "name":"料理机",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11284/298/2465125571/2619/ffe2cde5/5a17f237Nb9978251.jpg"
+                    },
+                    {
+                        "name":"榨汁机/原汁机",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t13264/165/968827574/9255/7d10ad8c/5a17f224N9756f6e5.jpg"
+                    },
+                    {
+                        "name":"电烤箱",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t12094/76/967581282/2377/4611685d/5a17f1f1N9c125c81.jpg"
+                    },
+                    {
+                        "name":"养生壶/煎药壶",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11947/325/2422338843/8842/231908b2/5a17c966Nd140f4e3.jpg"
+                    },
+                    {
+                        "name":"电炖锅",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13009/346/964112809/2968/91b03a47/5a17f1aeNf7647558.jpg"
+                    },
+                    {
+                        "name":"电烧烤炉",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t11140/308/2445458495/9043/1753bd3c/5a17f1a9N8a775fab.jpg"
+                    },
+                    {
+                        "name":"面包机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t12367/112/996967887/2205/e8c82674/5a17f20aNde6af185.jpg"
+                    },
+                    {
+                        "name":"咖啡机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t14074/98/970407567/2153/72273815/5a17f208N6ea88eba.jpg"
+                    },
+                    {
+                        "name":"煮蛋器",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t11086/93/2414691741/2722/d9d248ff/5a17f1e3Nbb40dec0.jpg"
+                    },
+                    {
+                        "name":"电热饭盒",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11356/153/2385394139/7948/dc2a0170/5a17c968Nb5ea6a23.jpg"
+                    },
+                    {
+                        "name":"面条机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12274/166/997017520/2640/6e2fa67/5a17f1deN2f022a90.jpg"
+                    },
+                    {
+                        "name":"空气炸锅",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12307/139/1000478874/7910/ea6813ca/5a17f1fbNc9df1b71.jpg"
+                    },
+                    {
+                        "name":"蔬果解毒机",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t12124/341/992252635/3589/bd16ee5/5a17f1b7N26b23a3a.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "个户健康",
+                "data": [
+                    {
+                        "name": "电吹风",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t13981/225/965020395/7369/1740dbbb/5a17c20fN16e27ed9.png"
+                    },
+                    {
+                        "name": "剃须刀",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t11539/356/2296587411/5881/9d96908e/5a17c221Nf85c1934.jpg"
+                    },
+                    {
+                        "name": "理发器",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t11125/324/2448652642/4268/cd0fff76/5a17c201N6f968e89.jpg"
+                    },
+                    {
+                        "name": "足浴盆",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t11209/303/2393582425/2406/d7c577aa/5a17c1eeNb9958e28.jpg"
+                    },
+                    {
+                        "name": "剃/脱毛器",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t13306/243/970438254/1447/a2be4ca5/5a17c21bN9fa5f473.jpg"
+                    },
+                    {
+                        "name": "按摩器",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t13306/243/970438254/1447/a2be4ca5/5a17c21bN9fa5f473.jpg"
+                    },
+                    {
+                        "name":"卷/直发器",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t12421/326/945805627/2801/4c9985ca/5a17c1ddNba83885a.jpg"
+                    },
+                    {
+                        "name":"按摩椅",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t13297/176/988569238/3559/8b7e1e75/5a17c1fcN516045fe.jpg"
+                    },
+                    {
+                        "name":"口腔护理",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t11779/36/2420240260/4056/d6ce030b/5a17c214N2eab4352.jpg"
+                    },
+                    {
+                        "name":"电子秤",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13615/96/1004728348/4470/f3e62def/5a17c1e8Nbfc87330.jpg"
+                    },
+                    {
+                        "name":"美容器",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t11065/145/2436762903/1153/41871627/5a17c209Nff3d08aa.jpg"
+                    },
+                    {
+                        "name":"其他健康电器",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t13552/335/972852493/6032/1382e5dd/5a17c1e3N576565f7.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"电视",
+                "data":[
+                    {
+                        "name":"互联网电视",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t11842/356/2416901099/2164/ab77fbaa/5a17f71eN25360979.jpg"
+                    },
+                    {
+                        "name":"4k超高清",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t11386/179/2470866031/2353/dfc7d933/5a17f72cN97075084.jpg"
+                    },
+                    {
+                        "name":"超薄电视",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t13318/98/977001060/2750/23b1f7d1/5a17f724N6b00846c.jpg"
+                    },
+                    {
+                        "name":"曲面电视",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11497/215/2431437398/2303/13a78d00/5a17f73eN1ed10bce.jpg"
+                    },
+                    {
+                        "name":"量子点电视",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13741/85/997235602/2442/d633a9d1/5a17f726N196bd924.jpg"
+                    },
+                    {
+                        "name":"HDR",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13675/83/1003983777/1869/5025c50c/5a17f719N7371175e.jpg"
+                    },
+                    {
+                        "name":"电视配件",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t11704/206/2456199866/2326/c82043c8/5a17f71bN47c72a89.jpg"
+                    },
+                    {
+                        "name":"OLED电视",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t13540/87/982529943/2109/a637038c/5a17f70fN00d172ce.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "电脑办公",
+        "data": [
+            {
+                "name":"广告",
+                "path":"https://img30.360buyimg.com/mcoss/jfs/t14743/292/279117506/48503/9b7d9f2c/5a28ea97N36cb4d16.jpg"
+            },
+            {
+                "name": "热卖分类",
+                "data": [
+                    {
+                        "name": "轻薄本",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png"
+                    },
+                    {
+                        "name": "游戏本",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png"
+                    },
+                    {
+                        "name": "机械键盘",
+                        "path": "https://img12.360buyimg.com/focus/s140x140_jfs/t12304/245/965858782/6481/37cb5a9b/5a17ba5aN0406a1b5.jpg"
+                    },
+                    {
+                        "name": "组装电脑",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t14101/325/978287093/8836/e142aa53/5a17ba73N07b12f0c.jpg"
+                    },
+                    {
+                        "name": "移动硬盘",
+                        "path": "https://img12.360buyimg.com/focus/s140x140_jfs/t13228/333/989759736/4764/2a312c2e/5a17ba7fN0740c051.jpg"
+                    },
+                    {
+                        "name": "显卡",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t12679/262/982342141/7023/d05a11e5/5a17ba57Nf179b4e4.jpg"
+                    },
+                    {
+                        "name":"游戏台式机",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg"
+                    },
+                    {
+                        "name":"家用打印机",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t12526/166/988611883/3419/3c7507ac/5a17ba5dN8f6ffa5e.jpg"
+                    },
+                    {
+                        "name":"吃鸡装备",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t16210/272/2297735843/7874/66447aee/5a9fa34bNff4ef403.jpg"
+                    },
+                    {
+                        "name":"曲屏显示器",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t13798/322/988648789/3644/1adc5615/5a17ba6dNafc95373.jpg"
+                    },
+                    {
+                        "name":"投影机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13492/261/938265048/5840/b5e4bdb6/5a17ba61N61a74bc3.jpg"
+                    },
+                    {
+                        "name":"日本文具",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t16102/63/2286960292/7028/d15c6bd6/5a9fa366N889aad0f.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"电脑整机",
+                "data":[
+                    {
+                        "name":"笔记本",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13852/288/980080912/2623/73d2a1a5/5a17b976N7ab8a3a6.jpg"
+                    },
+                    {
+                        "name":"平板电脑",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13252/193/948884668/3832/2cd704d4/5a17b918N0785e503.jpg"
+                    },
+                    {
+                        "name":"一体机",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t14020/291/987624955/9068/5b27e263/5a17b978N2a93f7a9.jpg"
+                    },
+                    {
+                        "name":"台式机",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t13747/317/982291236/6659/4945536d/5a17b996Nba3bed32.jpg"
+                    },
+                    {
+                        "name":"笔记本配件",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12088/219/967281794/2015/c05e448c/5a17b933N825c264a.jpg"
+                    },
+                    {
+                        "name":"游戏台式机",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12901/167/947504038/6315/4c239386/5a17b948Nf6918c9e.jpg"
+                    },
+                    {
+                        "name":"商用台式机",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13138/231/1001350583/7486/6d001868/5a17b94eN820f6506.jpg"
+                    },
+                    {
+                        "name":"游戏本",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12418/24/1008907015/2867/86eb55a/5a17b971N14214c4f.jpg"
+                    },
+                    {
+                        "name":"平板电脑配件",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t13504/44/947654756/2419/ca768bc2/5a17b8dcNd0418625.jpg"
+                    },
+                    {
+                        "name":"轻薄本",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12499/273/957225674/6892/8281d4a7/5a17b962Nf77d9f6c.jpg"
+                    },
+                    {
+                        "name":"二合一平板",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t11944/224/2479637242/6222/ac9759/5a17b93dN89330bb3.jpg"
+                    },
+                    {
+                        "name":"服务器/工作站",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13840/141/950958975/1812/362471fe/5a17b921Nf71bb1a4.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"外设产品",
+                "data":[
+                    {
+                        "name":"鼠标",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t11881/31/2355374158/3676/22da94de/5a16a5f0Nc6b32dda.jpg"
+                    },
+                    {
+                        "name":"U盘",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12112/355/904591745/4308/6201dffe/5a16a5aaNdac2fe89.jpg"
+                    },
+                    {
+                        "name":"键盘",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13636/255/952363201/5216/92808140/5a16a5f6Nad15240a.jpg"
+                    },
+                    {
+                        "name":"鼠标垫",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13378/75/927818435/4870/595967f9/5a16a5b5N4075325c.jpg"
+                    },
+                    {
+                        "name":"移动硬盘",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12139/119/906364755/3899/3e9bfbca/5a16a5adN67c1a043.jpg"
+                    },
+                    {
+                        "name":"手写板",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t11734/189/2377033150/4145/b78bfcf/5a16a594Ncb41c95a.jpg"
+                    },
+                    {
+                        "name":"硬盘盒",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13420/80/910285628/2736/5f202fd8/5a16a59eNadecac30.jpg"
+                    },
+                    {
+                        "name":"线缆",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t13219/359/921087235/4445/bb62050e/5a16a592N7e614f3d.jpg"
+                    },
+                    {
+                        "name":"手机U盘",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t12511/359/951124397/4655/1f4b2503/5a16a585N73dd2d73.jpg"
+                    },
+                    {
+                        "name":"电脑清洁",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t14092/4/926363914/5049/8bf96ca4/5a16a57dNed5b68f6.jpg"
+                    },
+                    {
+                        "name":"插座",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t12031/206/932335399/3567/d6d59ad9/5a16a578N283a0f75.jpg"
+                    },
+                    {
+                        "name":"键盘套装",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13687/323/893934580/3715/4657a7e6/5a16a56dN9e6309e0.jpg"
+                    },
+                    {
+                        "name":"UPS电源",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t12571/97/935919461/4129/7e1b9069/5a16a566N8fb4f9ae.jpg"
+                    },
+                    {
+                        "name":"电脑工具",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t12292/173/915309013/5554/78f4ab5e/5a16a560Nc7626d33.jpg"
+                    },
+                    {
+                        "name":"机械键盘",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t11455/75/2350304185/6636/e301e187/5a16a58cNb6b027df.jpg"
+                    },
+                    {
+                        "name":"摄像头",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12499/54/910206832/5998/f91002f8/5a16a588Nff477d9d.jpg"
+                    },
+                    {
+                        "name":"网络仪表仪器",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12583/285/927237069/5490/e730e27e/5a16a572N83179fdc.jpg"
+                    },
+                    {
+                        "name":"网络存储",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t17785/37/669925896/1731/9f670ef0/5a9fa3fbN1d0fe0c9.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "计生情趣",
+        "data": [
+            {
+                "name": "热卖产品",
+                "data": [
+                    {
+                        "name":"避孕套",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t12967/337/1391919620/4957/c230e379/5a1fa4dfN13635e0b.jpg"
+                    },
+                    {
+                        "name":"飞机杯",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t12577/223/1408990949/3151/b6d3f3c2/5a1fa4c9N1722220b.jpg"
+                    },
+                    {
+                        "name":"软化液",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t16204/157/99115190/1594/56b918ba/5a27dd39Nb291d7b4.jpg"
+                    },
+                    {
+                        "name":"振动棒",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t7711/193/4061075422/3307/ca2e16f0/5a1fa4d3N73ba4e26.jpg"
+                    },
+                    {
+                        "name":"情趣内衣",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12031/188/1751903538/3665/5002167a/5a27dd3dN8c2a767c.jpg"
+                    },
+                    {
+                        "name":"充气娃娃",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t13879/252/1741535676/2857/17a878cc/5a27dd43N3f71897a.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "男用器具",
+                "data": [
+                    {
+                        "name": "狼牙套",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t15697/270/117263048/3424/d9ac82b4/5a27dd0fNe2bc9933.jpg"
+                    },
+                    {
+                        "name": "延时环",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t12844/238/1716863106/4896/66ecb649/5a27dd15N3c319e6e.jpg"
+                    },
+                    {
+                        "name": "名器",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t13363/207/1378105912/4445/5d6a8da8/5a1fa4a4Nbe0dd20a.jpg"
+                    },
+                    {
+                        "name": "实体娃娃",
+                        "path": "https://img12.360buyimg.com/focus/s140x140_jfs/t13633/192/1750068170/3097/be361c7f/5a27dd19Na55905bf.jpg"
+                    },
+                    {
+                        "name": "飞机杯",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t13069/337/1417186237/3300/4269f51f/5a1fa4aaN5c41ddec.jpg"
+                    },
+                    {
+                        "name": "倒模",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t12874/255/15949646/3234/2ac08cca/5a1fa480Nb25ec042.jpg"
+                    },
+                    {
+                        "name":"后庭",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t15187/337/235838504/2416/5831d5d6/5a27dd09N6e341de3.jpg"
+                    },
+                    {
+                        "name":"情趣游戏",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t15517/83/118691147/2248/2ab34c4f/5a27dcf3Nc3c95962.jpg"
+                    },
+                    {
+                        "name":"充气娃娃",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t14548/326/252090716/3444/d65a0e4/5a27dd0eN06ceb604.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"女用器具",
+                "data":[
+                    {
+                        "name":"女用仿真",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13318/170/1764615288/2475/ca6d7d29/5a27dce0N331f1af8.jpg"
+                    },
+                    {
+                        "name":"跳蛋",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t14818/268/246244527/4366/81e2bb91/5a27dcfcN951395bc.jpg"
+                    },
+                    {
+                        "name":"震动棒",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13447/120/1378820595/3256/d14fff5c/5a1fa47bN410ff8f0.jpg"
+                    },
+                    {
+                        "name":"AV棒",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t13561/174/1403466955/2709/7007279e/5a1fa475Nff6e6f2b.jpg"
+                    },
+                    {
+                        "name":"转珠棒",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t12757/80/1430224086/2761/6ec2c43c/5a1fa46eNad190bd4.jpg"
+                    },
+                    {
+                        "name":"缩明球",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t12061/150/1769987244/2461/fe21b911/5a27dcf6Neba3a5aa.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "美妆护肤",
+        "data": [
+            {
+                "name":"广告",
+                "path":"https://img12.360buyimg.com/mcoss/jfs/t19402/36/2649536722/51351/57d8c553/5afeb3d3Nc9028a0b.jpg"
+            },
+            {
+                "name": "当季主推",
+                "data": [
+                    {
+                        "name": "美白",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t19531/110/2538137867/14848/c3ec84ac/5afd3cc5N8aa4b7c8.jpg"
+                    },
+                    {
+                        "name": "防晒",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t17560/320/2504739891/10347/f04150c4/5afd3cbeN77d00886.jpg"
+                    },
+                    {
+                        "name": "控油",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t19291/98/2577005836/12222/7107fb29/5afd3cc9N3add85ae.jpg"
+                    },
+                    {
+                        "name": "明星同款面膜",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t19759/351/2599036909/13944/24601ad4/5afd3d66Nbb817b81.jpg"
+                    },
+                    {
+                        "name": "显白口红",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t20356/99/118471868/26414/e301e0b7/5afd3d61Ne42d8f0d.jpg"
+                    },
+                    {
+                        "name": "小美盒",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t19453/253/2549990863/33320/e0515773/5afd3d5cN85837566.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"面部护肤",
+                "data":[
+                    {
+                        "name":"护肤礼盒",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t20959/91/124730120/12985/5284a79e/5afd3d41N088429d4.jpg"
+                    },
+                    {
+                        "name":"深层清洁",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t22396/17/121051148/28089/c4acdb0f/5afd3d3bN75fa18d3.jpg"
+                    },
+                    {
+                        "name":"敏感肌",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t20929/77/121480668/32196/9a7ba672/5afd3d35N2a6ee1be.jpg"
+                    },
+                    {
+                        "name":"卸妆",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t20917/65/125245513/25087/e5ba4ace/5afd3d2eNd15c7aa0.jpg"
+                    },
+                    {
+                        "name":"洁面",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t20383/58/124335317/14873/8e3616ff/5afd3d27Ne9bbcfbf.jpg"
+                    },
+                    {
+                        "name":"爽肤水/化妆水",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t18874/59/2559251858/5489/71cbf3ce/5afd3d21N7fc7e6b4.jpg"
+                    },
+                    {
+                        "name":"乳液/面霜",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t18103/87/2517823758/30777/deea9adf/5afd3d1cN8cd5e8cc.jpg"
+                    },
+                    {
+                        "name":"精华/肌底液",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t19432/52/2545941083/41798/3ba421cf/5afd3d11Nc13f1029.jpg"
+                    },
+                    {
+                        "name":"眼霜",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t19678/73/2552924985/24992/eb27e199/5afd3d16N945cdc81.jpg"
+                    },
+                    {
+                        "name":"睡眠面膜",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t20455/190/132026113/13944/24601ad4/5afd3d07N2d13b43f.jpg"
+                    },
+                    {
+                        "name":"面膜",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t20962/35/124012301/15484/5ac3dd4f/5afd3cfdNa7337800.jpg"
+                    },
+                    {
+                        "name":"唇膜",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t17458/207/2527465331/31829/8252a1e4/5afd3cf8N65b1a524.jpg"
+                    },
+                    {
+                        "name":"润唇膏",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t19189/251/2505274305/20543/3440faf0/5afd3cf3N79f5cd53.jpg"
+                    },
+                    {
+                        "name":"眼膜",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t18700/322/2571943476/46810/6520d357/5afd3ceeN5fc18eee.jpg"
+                    },
+                    {
+                        "name":"喷雾",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t17986/100/2562283964/16273/c9116c5d/5afd3ce9N7eded916.png"
+                    },
+                    {
+                        "name":"护肤套装",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t17245/65/2550820197/33915/17f5392c/5afd3ce3N13c408e7.jpg"
+                    },
+                    {
+                        "name":"T区护理",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t21661/343/137047820/35345/7f234a60/5afd3cdfN9bc90ffe.jpg"
+                    },
+                    {
+                        "name":"精华",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t19441/301/2564142212/26441/9aa8b984/5afd3c60N21358b6a.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"男士护肤",
+                "data":[
+                    {
+                        "name":"抗痘",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t18802/81/2566033131/28737/79f08ca9/5afd3c8aNd0e71275.jpg"
+                    },
+                    {
+                        "name":"去黑头",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t20302/318/128789688/54498/ee1af3a1/5afd3c8fNc3b46f7b.jpg"
+                    },
+                    {
+                        "name":"护肤套装",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t17860/116/2528109108/53535/1430e5b9/5afd3c94N0e8d9216.jpg"
+                    },
+                    {
+                        "name":"护肤礼盒",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t20794/136/115505920/52150/35ff336/5afd3c98N71ab9819.jpg"
+                    },
+                    {
+                        "name":"洁面",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t18346/135/2516622376/29200/983881b3/5afd3c9dNba0bf087.jpg"
+                    },
+                    {
+                        "name":"剃须",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t16849/254/2538951120/44158/2c118c0a/5afd3ca2Na8144609.jpg"
+                    },
+                    {
+                        "name":"防晒",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t21241/3/126492592/10347/f04150c4/5afd3cb7N82e77b3f.jpg"
+                    },
+                    {
+                        "name":"爽肤水",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t18178/66/2529806258/29049/33a9cb41/5afd3c78Nc97eeb61.jpg"
+                    },
+                    {
+                        "name":"乳液/面霜",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t16828/153/2582185249/39952/bc52d0b0/5afd3c73Nace48a2e.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "个护清洁",
+        "data": [
+            {
+                "name": "畅销推荐",
+                "data":[
+                    {
+                        "name":"个护馆",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t21343/109/200166835/32189/655b48ef/5b03c73fN69e0c2b7.jpg"
+                    },
+                    {
+                        "name":"清洁馆",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t22015/174/193799214/56285/64f190df/5b03bf93Na049c54e.jpg"
+                    },
+                    {
+                        "name":"进口清洁",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t20482/61/128269126/48485/836a6d71/5afd574eNb1ad35ae.jpg"
+                    },
+                    {
+                        "name":"卫生棉条",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t18214/1/2613174758/15599/5ed2de47/5afd5747N2fc58c3e.jpg"
+                    },
+                    {
+                        "name":"湿厕纸",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t20365/251/116787241/43845/fa0bc54d/5afd5740Na342fa77.jpg"
+                    },
+                    {
+                        "name":"走珠/止汗露",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t18676/160/2579989694/9033/3c4632ba/5afd5735Nfd44dcdd.jpg"
+                    },
+                    {
+                        "name":"花露水",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t22123/187/137040009/6892/6b0cbf68/5afd572dN7ed9c341.jpg"
+                    },
+                    {
+                        "name":"驱蚊用品",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t20293/233/118774843/46835/4e4eaf16/5afd5727N9f7271c7.jpg"
+                    },
+                    {
+                        "name":"本色纸",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t17062/178/2600012755/33321/1ad5ca0b/5afd571fN18ed0cd5.jpg"
+                    },
+                    {
+                        "name":"免洗洗手液",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t16840/96/2521969144/9603/65ca0871/5afd571aN43e80da5.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "明星品牌",
+                "data": [
+                    {
+                        "name": "得宝",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t19159/296/2561042023/49706/b5b9a38c/5afd5700N355dfa7d.jpg"
+                    },
+                    {
+                        "name": "施华蔻专业",
+                        "path": "https://img12.360buyimg.com/focus/s140x140_jfs/t19489/212/2660233176/26301/ba832bb4/5b03ca93Nb4f64094.jpg"
+                    },
+                    {
+                        "name": "舒洁",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t19819/28/553421672/50589/7cfc13ea/5afd56f2Nf2b8ca84.jpg"
+                    },
+                    {
+                        "name": "馥绿德雅",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t17248/264/2595778521/6813/3309b403/5afd56ecN8257b620.jpg"
+                    },
+                    {
+                        "name": "3M",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t18997/159/2614761718/41736/d0533a04/5afd56e7N9961fe19.jpg"
+                    },
+                    {
+                        "name": "吕",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t19420/348/2539781815/6961/35348d70/5afd56e1N98a273a3.jpg"
+                    },
+                    {
+                        "name":"当妮",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t18196/253/2567807998/53005/61c50fea/5afd56dcNc16970a8.jpg"
+                    },
+                    {
+                        "name":"LG",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t21079/224/118757583/10390/664c2986/5afd56d5N4a00680d.jpg"
+                    },
+                    {
+                        "name":"橘子工坊",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t21721/134/120751456/39440/5d9584de/5afd56cfNaabd3f8c.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"纸品湿巾",
+                "data":[
+                    {
+                        "name":"抽纸",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t21769/101/124948952/48248/832ede7b/5afd568bN971e6358.jpg"
+                    },
+                    {
+                        "name":"卷纸",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t22387/82/128171200/41534/fde69788/5afd5686N67808fa9.jpg"
+                    },
+                    {
+                        "name":"手帕纸",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t18637/64/2549852710/37258/79908eff/5afd5681N00604b0d.jpg"
+                    },
+                    {
+                        "name":"湿纸",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t22297/74/124765074/42169/447f046a/5afd567cNfc430327.jpg"
+                    },
+                    {
+                        "name":"厨房纸巾",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t19225/80/2534738713/47306/263604a4/5afd5678N54ce98af.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "汽车生活",
+        "data": [
+            {
+                "name": "热卖推荐",
+                "data": [
+                    {
+                        "name": "机油",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t12934/187/1360887703/3624/2773362c/5a1fb8f6N7d4de465.jpg"
+                    },
+                    {
+                        "name": "汽车坐垫",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t13861/165/1416050485/4023/7a99270b/5a1fb902N806b102c.jpg"
+                    },
+                    {
+                        "name": "洗车水枪",
+                        "path": "https://img12.360buyimg.com/focus/s140x140_jfs/t12775/362/1793763591/8646/9054789/5a28b10cN62861b9b.jpg"
+                    },
+                    {
+                        "name": "行车记录仪",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t12901/240/1394851486/8943/454985f7/5a1fb8fcNb81047cc.jpg"
+                    },
+                    {
+                        "name": "轮胎",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t12508/203/1731926315/5258/efc05e60/5a28b101Ne8ebee02.jpg"
+                    },
+                    {
+                        "name": "应急救援",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t15556/93/149991245/6163/3387b1e9/5a28b106N59344f7a.png"
+                    }
+                ]
+            },
+            {
+                "name":"全部车型",
+                "data":[
+                    {
+                        "name":"全部车型",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t1/8473/10/11628/10657/5c2dbb1cE47193b77/7f241ac8f7889f1d.jpg"
+                    },
+                    {
+                        "name":"大众",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/9840/16/11639/17257/5c2dba16E8de6ef2a/b4183d6f61a3cc7d.jpg"
+                    },
+                    {
+                        "name":"日产",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t1/29923/3/3983/10680/5c2dba1eEedd1bb07/9247922649b54d4f.jpg"
+                    },
+                    {
+                        "name":"丰田",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t1/14600/17/4110/8646/5c2dba26E73f41fef/780a4ace76c4ef0b.jpg"
+                    },
+                    {
+                        "name":"奥迪",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t1/20898/17/4012/8445/5c2dba2dEe1e47052/88025b2f8a3db243.jpg"
+                    },
+                    {
+                        "name":"别克",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t1/11966/34/4889/14229/5c2dba33Efedca6be/b1a54b684fdba89d.jpg"
+                    },
+                    {
+                        "name":"宝骏",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t1/6511/7/11938/10278/5c2dba3aE267e296f/69918865e86ecf36.jpg"
+                    },
+                    {
+                        "name":"本田",
+                        "path":"https://img20.360buyimg.com/focus/s140x140_jfs/t1/29720/25/4046/9018/5c2dba3fE18370565/6a111e43b55ab8ce.jpg"
+                    },
+                    {
+                        "name":"斯柯达",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/28703/6/3981/13957/5c2dba45E83f19186/4d0151e9e7e4339e.jpg"
+                    },
+                    {
+                        "name":"凯迪拉克",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t1/11453/36/4857/10519/5c2dba4cE7a14795e/121dbd0a81825ba1.jpg"
+                    },
+                    {
+                        "name":"名爵",
+                        "path":"https://img11.360buyimg.com/focus/s140x140_jfs/t1/20359/29/3972/11650/5c2dba51E4a1d501d/92f55a0ead318176.jpg"
+                    },
+                    {
+                        "name":"二手车",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t1/23427/14/4078/12094/5c2dba57Ec642cfba/5aba4c49135df8d1.jpg"
+                    },
+                    {
+                        "name":"奥迪Q5L",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t1/25344/18/4032/10180/5c2dba5cEf14408f8/7c7935f09b2c80cb.jpg"
+                    },
+                    {
+                        "name":"轩逸",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t1/8485/11/11631/7335/5c2dba62Eb87567b9/1c81c420bd0cbc2d.jpg"
+                    },
+                    {
+                        "name":"迈腾",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t1/15567/16/4031/8798/5c2dba68E01a7fb14/ae668e176faeae21.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"汽车装饰",
+                "data":[
+                    {
+                        "name":"香水",
+                        "path":"https://img10.360buyimg.com/focus/s140x140_jfs/t13759/326/1785480674/5074/ee5e11b5/5a28ae70N2103e1ad.jpg"
+                    },
+                    {
+                        "name":"功能小件",
+                        "path":"https://img30.360buyimg.com/focus/s140x140_jfs/t12031/185/1786124151/4188/4fbcefa1/5a28ae4aNc332a72c.jpg"
+                    },
+                    {
+                        "name":"挂件",
+                        "path":"https://img13.360buyimg.com/focus/s140x140_jfs/t14563/22/263252417/4276/1685f17/5a28ae7cN14672d9f.jpg"
+                    },
+                    {
+                        "name":"车贴",
+                        "path":"https://img14.360buyimg.com/focus/s140x140_jfs/t16231/145/125924495/8318/b0a5af3e/5a28ae6dNbf8afd0d.jpg"
+                    },
+                    {
+                        "name":"车钥匙扣",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t15562/128/151306023/5669/a6f309c5/5a28ae93Nbd3a7965.jpg"
+                    },
+                    {
+                        "name":"车衣",
+                        "path":"https://img12.360buyimg.com/focus/s140x140_jfs/t15379/29/278452727/7734/e1b9d130/5a28ae5aN98fe0b9b.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "GH超市",
+        "data": [
+            {
+                "name": "热门品牌",
+                "data": [
+                    {
+                        "name": "小米",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png"
+                    },
+                    {
+                        "name": "华为",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg"
+                    },
+                    {
+                        "name": "荣耀",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t12178/348/911080073/4732/db0ad9c7/5a1692e2N6df7c609.jpg"
+                    },
+                    {
+                        "name": "iPhone",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t13759/194/897734755/2493/1305d4c4/5a1692ebN8ae73077.jpg"
+                    },
+                    {
+                        "name": "vivo",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png"
+                    },
+                    {
+                        "name": "OPPO",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "男装",
+        "data": [
+            {
+                "name": "广告",
+                "path": "https://img20.360buyimg.com/mcoss/jfs/t1/17970/5/1976/51492/5c189253E07d143ed/5df8a82661807e7f.png"
+            },
+            {
+                "name": "京东年货",
+                "data": [
+                    {
+                        "name": "干果",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/24157/37/4730/15002/5c34ad2aE17e7c919/7478e75c1a74534e.png"
+                    },
+                    {
+                        "name": "酒类",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/8442/13/12309/14678/5c34ad31Ef45ff26d/78f989af20b6e59e.png"
+                    },
+                    {
+                        "name": "新春女装",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/11747/40/5509/15838/5c34ad37E413959fd/dd755b4979e0e306.png"
+                    },
+                    {
+                        "name": "潮流男装",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/23971/31/4698/13366/5c34ad3cEd9af3571/f15e55be5965980a.png"
+                    },
+                    {
+                        "name": "童装新品",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/24302/27/4721/5894/5c34ae05Ee802c258/414c4c3e6044b6a7.png"
+                    },
+                    {
+                        "name": "电子数码",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/11960/19/5588/14932/5c34ad4bE2f10e4e2/720b8219ff43cc0c.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "男鞋",
+        "data": [
+            {
+                "name": "热门品牌",
+                "data": [
+                    {
+                        "name": "小米",
+                        "path": "https://img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png"
+                    },
+                    {
+                        "name": "华为",
+                        "path": "https://img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg"
+                    },
+                    {
+                        "name": "荣耀",
+                        "path": "https://img10.360buyimg.com/focus/s140x140_jfs/t12178/348/911080073/4732/db0ad9c7/5a1692e2N6df7c609.jpg"
+                    },
+                    {
+                        "name": "iPhone",
+                        "path": "https://img20.360buyimg.com/focus/s140x140_jfs/t13759/194/897734755/2493/1305d4c4/5a1692ebN8ae73077.jpg"
+                    },
+                    {
+                        "name": "vivo",
+                        "path": "https://img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png"
+                    },
+                    {
+                        "name": "OPPO",
+                        "path": "https://img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "女装",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 12,
+        "name": "女鞋",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 13,
+        "name": "母婴童装",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 14,
+        "name": "图书音像",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 15,
+        "name": "运动户外",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 16,
+        "name": "内衣配饰",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 17,
+        "name": "食品生鲜",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "id": 18,
+        "name": "酒水饮料",
+        "data": [
+            {}
+        ]
+    }
+]

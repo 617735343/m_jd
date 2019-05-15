@@ -219,30 +219,30 @@ SecKill.prototype = {
 SecKill.prototype.setTran = function () {
     var _this = this;
     _this.secKill.addEventListener('touchstart', function (e) {
-        console.log(e.touches[0].clientX)
+        // console.log(e.touches[0].clientX)
         _this.startX = e.touches[0].clientX;
     });
     _this.secKill.addEventListener('touchmove', function (e) {
-        console.log(e.touches[0].clientX)
+        // console.log(e.touches[0].clientX)
         _this.moveX = e.touches[0].clientX;
         _this.distanceX = -(_this.startX - _this.moveX);
         _this.ul.style.transition = '';
         _this.ul.style.transform = "translateX(" + (_this.targetX + _this.distanceX) + 'px)';
     });
     _this.secKill.addEventListener('touchend', function () {
-        console.log(3);
+        // console.log(3);
 
         if (_this.targetX + _this.distanceX >= 0) {
             _this.ul.style.transition = 'all 0.3s';
             _this.ul.style.transform = "translateX(" + 0 + 'px)';
             return false;
         }
-        console.log(_this.ulLi[0].offsetWidth * _this.ulLi.length);
+        // console.log(_this.ulLi[0].offsetWidth * _this.ulLi.length);
         if (_this.targetX + _this.distanceX <= -_this.ul.offsetWidth + document.documentElement.offsetWidth) {
             _this.ul.style.transition = 'all 0.3s';
             _this.ul.style.transform = "translateX(" + (-_this.ul.offsetWidth + document.documentElement.offsetWidth) + 'px)';
             // window.open('https://wqs.jd.com/portal/wx/seckill_m/index.shtml', '_self')
-            window.open('#','_self');
+            window.open('./seckill.html','_self');
             return false;
         }
         _this.targetX = _this.distanceX + _this.targetX;

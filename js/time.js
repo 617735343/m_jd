@@ -51,11 +51,12 @@
     }
 
     function getToday() {
-        //获取每天24点的秒数
+        //获取每隔2个小时的秒数
         todayYear = (new Date()).getFullYear();
         todayMonth = (new Date()).getMonth();
-        todayDay = (new Date()).getDate() + 1;
-        todayTime = (new Date(todayYear, todayMonth, todayDay)).getTime();//毫秒
+        todayDay = (new Date()).getDate();
+        todayHours = (new Date()).getHours() + 2;
+        todayTime = (new Date(todayYear, todayMonth, todayDay,todayHours)).getTime();//毫秒
         todaySeconds = parseInt(todayTime) / 1000;
         return todaySeconds;
     }
